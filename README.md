@@ -34,7 +34,7 @@ For the argumentation part, we based ourselves on an article of
 - Argumentation
 
 ## Documentations :
-- Project repport : &emsp;&emsp;&emsp;
+- Project summary : &emsp;&emsp;&emsp;
 [<img align="center" src="./extern_doc/french.png" width="50" height="50"/>](./extern_doc/.pdf)
 
 - Project presentation : &emsp;

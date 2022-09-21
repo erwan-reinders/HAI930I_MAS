@@ -3,7 +3,7 @@
 Project for a collaborative multi-agent system that talks to each other in order to help each other.
 
 <p align="center">
-<a href="./extern_doc/img_presentation.jpg">
+<a href="./extern_doc/MAS.jpg">
 <img align="center" src="./extern_doc/MAS.JPG" width="800" height="500"/>
 </a>
 </p>
@@ -23,7 +23,8 @@ to determine ...
 ## Technical details
 <p align="justify">
 This project is done via <b>WebGl</b> in <b>JS</b>.
-For the argumentation part, we based ourselves on an article of [Alison R Panisson, Felipe Meneguzzi, Renata Vieira, and Rafael H Bordini] [doc](extern_doc/iat-protocols-2015.pdf).
+For the argumentation part, we based ourselves on an article of 
+  <a href="./extern_doc/iat-protocols-2015.pdf">Alison R Panisson, Felipe Meneguzzi, Renata Vieira, and Rafael H Bordini<\a>.
 </p>
 
 ## Key Words

@@ -24,7 +24,7 @@ to determine ...
 <p align="justify">
 This project is done via <b>WebGl</b> in <b>JS</b>.
 For the argumentation part, we based ourselves on an article of 
-  <a href="./extern_doc/iat-protocols-2015.pdf">Alison R Panisson, Felipe Meneguzzi, Renata Vieira, and Rafael H Bordini<\a>.
+  <a href="./extern_doc/iat-protocols-2015.pdf">Alison R Panisson, Felipe Meneguzzi, Renata Vieira, and Rafael H Bordini </a>.
 </p>
 
 ## Key Words

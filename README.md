@@ -23,7 +23,7 @@ to determine ...
 ## Technical details
 <p align="justify">
 This project is done via <b>WebGl</b> in <b>JS</b>.
-For the argumentation part, we based ourselves on an article of [Alison R. Panisson, Felipe Meneguzzi, Renata Vieira, and Rafael H. Bordini](./extern_doc/iat-protocols-2015.pdf).
+For the argumentation part, we based ourselves on an article of [Alison R. Panisson, Felipe Meneguzzi, Renata Vieira, and Rafael H. Bordini](extern_doc/iat-protocols-2015.pdf).
 </p>
 
 ## Key Words

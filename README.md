@@ -22,7 +22,7 @@ to determine ...
 
 ## Technical details
 <p align="justify">
-This project is done via `WebGl` in `JS` .
+This project is done via ` WebGl ` in ` JS ` .
 For the argumentation part, we based ourselves on an article of 
   <a href="./extern_doc/iat-protocols-2015.pdf">Alison R Panisson, Felipe Meneguzzi, Renata Vieira, and Rafael H Bordini </a>.
 </p>

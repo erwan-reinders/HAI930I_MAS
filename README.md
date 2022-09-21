@@ -12,7 +12,7 @@ Project for a collaborative multi-agent system that talks to each other in order
 to determine ...
 
 
-## équipe
+## Team
 <b>Supervisor :</b>    
 -  Madalina Croitoru (Madalina.Croitoru@lirmm.fr) 
 
